@@ -7,9 +7,9 @@ The final folder (Third) contains notebooks that include operations such as down
 
 ## Requirements
 Make sur that you have
-    Anaconda
-    Python 3.7+
-    Jupyter Lab or Notebook
+    - Anaconda
+    - Python 3.7+
+    - Jupyter Lab or Notebook
 ## How to use
 1. Clone this repository
 
