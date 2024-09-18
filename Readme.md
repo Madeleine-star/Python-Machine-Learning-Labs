@@ -1,4 +1,4 @@
-# Data Analysis and Model Training Notebooks
+# Books project
 
 This repository contains three folders each correspons to a version of the books dataset 
 In each folder there is several Jupyter notebooks designed for data engineering, analysis, and model training tasks. 
