@@ -3,7 +3,7 @@
 This repository contains three folders each correspons to a version of the books dataset 
 In each folder there is several Jupyter notebooks designed for data engineering, analysis, and model training tasks. 
 
-The final folder (Third) contains notebooks that include operations such as downloading data, processing JSON files, training machine learning models, in this part we have created the dataset from scrach.
+The final folder (Third) contains notebooks that include operations such as downloading data, processing JSON files in addition to all the above tasks, in this part we have created the dataset from scrach.
 
 ## Requirements
 Make sur that you have
